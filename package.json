@@ -1,7 +1,7 @@
 {
   "name": "@erchaves/sugarcone",
   "description": "A gulp utility for easy, isomorphic Dust.js. Bundles your templates, partials, helpers, and filters. Universal rendering on the Express.js server and the client.",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "author": "Eric Chaves <erchaves@gmail.com>",
   "license": "MIT",
   "dependencies": {
